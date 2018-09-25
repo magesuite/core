@@ -32,6 +32,7 @@
     "creativestyle/magesuite-clear-attributes": "^1.0.0",
     "creativestyle/magesuite-opengraph": "^1.0.0",
     "creativestyle/magesuite-google-api": "^1.0.0",
-    "creativestyle/magesuite-cms-product-backlink": "^1.0.0"
+    "creativestyle/magesuite-cms-product-backlink": "^1.0.0",
+    "creativestyle/magesuite-cache": "^1.0.0"
   }
 }
