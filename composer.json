@@ -33,7 +33,7 @@
     "creativestyle/magesuite-google-api": "^1.0.0",
     "creativestyle/magesuite-cms-product-backlink": "^1.0.0",
     "creativestyle/magesuite-cache": "^1.0.0",
-    "creativestyle/magesuite-constructor-asset": "^1.0.0",
+    "creativestyle/magesuite-content-constructor-asset": "^1.0.0",
     "creativestyle/magesuite-content-constructor": "^1.0.0",
     "creativestyle/magesuite-frontend": "^1.0.0",
     "creativestyle/magesuite-brand-management": "^1.0.0",
