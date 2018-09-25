@@ -1,7 +1,7 @@
 {
   "name": "creativestyle/magesuite-core",
   "type": "metapackage",
-  "description": "Creativeshop core metapackage",
+  "description": "MageSuite core metapackage",
   "require": {
     "creativestyle/magesuite-content-constructor-admin": "^1.0.0",
     "creativestyle/magesuite-content-constructor-frontend": "^1.0.0",
