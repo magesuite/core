@@ -24,7 +24,6 @@
     "creativestyle/magesuite-file-upload": "^1.0.0",
     "creativestyle/magesuite-seo-canonical": "^1.0.0",
     "creativestyle/magesuite-soft-db-status-validation": "^1.0.0",
-    "creativestyle/magesuite-node-warmer": "^1.0.0",
     "creativestyle/magesuite-persistent-sitemap": "^1.0.0",
     "creativestyle/magesuite-url-regeneration": "^1.0.0",
     "creativestyle/magesuite-url-rewrite": "^1.0.0",
