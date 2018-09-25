@@ -18,7 +18,7 @@
     "creativestyle/magesuite-maintenance-page": "^1.0.0",
     "creativestyle/magesuite-sentry-io": "^1.0.0",
     "creativestyle/magesuite-seo-hreflang": "^1.0.0",
-    "creativestyle/magesuite-pager": "^1.0.0",
+    "creativestyle/magesuite-pagination": "^1.0.0",
     "creativestyle/magesuite-extended-exception": "^1.0.0",
     "creativestyle/magesuite-cms-duplicate": "^1.0.0",
     "creativestyle/magesuite-file-upload": "^1.0.0",
