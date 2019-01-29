@@ -42,7 +42,7 @@
     "creativestyle/magesuite-daily-deal": "^1.0.0",
     "creativestyle/magesuite-cms-tag-manager": "^1.0.0",
     "creativestyle/mageops-node-warmer": "^1.0.0",
-    "creativestyle/magesuite-email-attachments": "^1.0.0",
+    "creativestyle/magesuite-email-attachments": "^2.0.0",
     "creativestyle/magesuite-gdpr": "^1.0.1",
     "creativestyle/magesuite-sorting": "^1.0.0",
     "creativestyle/magesuite-remote-port-in-order": "^1.0.0"
