@@ -45,7 +45,6 @@
     "creativestyle/magesuite-gdpr": "^1.0.1",
     "creativestyle/magesuite-sorting": "^1.0.0",
     "creativestyle/magesuite-remote-port-in-order": "^1.0.0",
-    "creativestyle/magesuite-extended-sitemap": "^1.0.0",
-    "creativestyle/magesuite-performance": "^1.0.0"
+    "creativestyle/magesuite-extended-sitemap": "^1.0.0"
   }
 }
