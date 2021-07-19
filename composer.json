@@ -24,6 +24,7 @@
     "creativestyle/magesuite-elasticsuite-addons": "^1.0.0",
     "creativestyle/magesuite-email-attachments": "^3.0.0",
     "creativestyle/magesuite-extended-exception": "^1.0.0",
+    "creativestyle/magesuite-extended-recaptcha": "^2.0.0",
     "creativestyle/magesuite-extended-sitemap": "^1.0.0",
     "creativestyle/magesuite-file-upload": "^1.0.0",
     "creativestyle/magesuite-frontend": "^2.0.0",
