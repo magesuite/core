@@ -4,7 +4,6 @@
   "description": "MageSuite core metapackage",
   "require": {
     "creativestyle/magento-patches": "dev-master@dev",
-    "creativestyle/magento-patches-frontend": "dev-master@dev",
     "creativestyle/mageops-node-warmer": "^1.0.0",
     "creativestyle/magesuite-brand-management": "^1.0.0",
     "creativestyle/magesuite-cache": "^1.0.0",
