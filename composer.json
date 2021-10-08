@@ -4,7 +4,6 @@
   "description": "MageSuite core metapackage",
   "require": {
     "creativestyle/magento-patches": "dev-master@dev",
-    "creativestyle/magento-patches-frontend": "dev-master@dev",
     "creativestyle/mageops-node-warmer": "^1.0.0",
     "creativestyle/magesuite-brand-management": "^1.0.0",
     "creativestyle/magesuite-cache": "^1.0.0",
@@ -24,6 +23,7 @@
     "creativestyle/magesuite-elasticsuite-addons": "^1.0.0",
     "creativestyle/magesuite-email-attachments": "^3.0.0",
     "creativestyle/magesuite-extended-exception": "^1.0.0",
+    "creativestyle/magesuite-extended-recaptcha": "^2.0.0",
     "creativestyle/magesuite-extended-sitemap": "^1.0.0",
     "creativestyle/magesuite-file-upload": "^1.0.0",
     "creativestyle/magesuite-frontend": "^2.0.0",
@@ -47,7 +47,8 @@
     "creativestyle/magesuite-thumbnail-remove": "^1.0.0",
     "creativestyle/magesuite-url-regeneration": "^1.0.0",
     "creativestyle/magesuite-url-rewrite": "^1.0.0",
-    "creativestyle/magesuite-url-rewrite-mass-actions": "^1.0.0"
+    "creativestyle/magesuite-url-rewrite-mass-actions": "^1.0.0",
+    "creativestyle/magesuite-ui-bookmark-cleaner": "^1.0.0"
   },
   "require-dev": {
     "creativestyle/magesuite-coding-standards": "^1.0.0"
