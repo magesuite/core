@@ -50,6 +50,7 @@
     "creativestyle/magesuite-url-regeneration": "^1.0.0",
     "creativestyle/magesuite-url-rewrite": "^1.0.0",
     "creativestyle/magesuite-url-rewrite-mass-actions": "^1.0.0",
-    "creativestyle/magesuite-ui-bookmark-cleaner": "^1.0.0"
+    "creativestyle/magesuite-ui-bookmark-cleaner": "^1.0.0",
+    "creativestyle/magesuite-improve-varnish-purge-performance": "^1.0.0"
   }
 }
