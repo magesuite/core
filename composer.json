@@ -52,6 +52,7 @@
     "creativestyle/magesuite-ui-bookmark-cleaner": "^1.0.0",
     "creativestyle/magesuite-improve-varnish-purge-performance": "^1.0.0",
     "creativestyle/magesuite-product-tile-warmup": "^1.0.0",
-    "creativestyle/magesuite-rest-api-rate-limit-terminator": "^1.0.0"
+    "creativestyle/magesuite-rest-api-rate-limit-terminator": "^1.0.0",
+    "creativestyle/magesuite-store-access-restriction":  "^1.0.0"
   }
 }
