@@ -46,7 +46,7 @@
     "creativestyle/magesuite-sentry-io": "^1.0.0",
     "creativestyle/magesuite-seo-canonical": "^1.0.0",
     "creativestyle/magesuite-seo-hreflang": "^1.0.0",
-    "creativestyle/magesuite-soft-db-status-validation": "^1.0.0",
+    "creativestyle/magesuite-soft-db-status-validation": "^2.0.0",
     "creativestyle/magesuite-sorting": "^1.0.0",
     "creativestyle/magesuite-store-access-restriction":  "^1.0.0",
     "creativestyle/magesuite-stuck-indexers-fixer": "^1.0.0",
