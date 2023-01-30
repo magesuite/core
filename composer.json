@@ -43,7 +43,7 @@
     "creativestyle/magesuite-product-tile-warmup": "^1.0.0",
     "creativestyle/magesuite-remote-port-in-order": "^1.0.0",
     "creativestyle/magesuite-rest-api-rate-limit-terminator": "^1.0.0",
-    "creativestyle/magesuite-sentry-io": "^1.0.0",
+    "creativestyle/magesuite-sentry-io": "^2.0.0",
     "creativestyle/magesuite-seo-canonical": "^1.0.0",
     "creativestyle/magesuite-seo-hreflang": "^1.0.0",
     "creativestyle/magesuite-soft-db-status-validation": "^2.0.0",
