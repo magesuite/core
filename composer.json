@@ -32,7 +32,7 @@
     "creativestyle/magesuite-google-api": "^1.0.0",
     "creativestyle/magesuite-improve-varnish-purge-performance": "^1.0.0",
     "creativestyle/magesuite-js-translation-fix": "^1.0.0",
-    "creativestyle/magesuite-lazy-resize": "^3.0.0",
+    "creativestyle/magesuite-lazy-resize": "^4.0.0",
     "creativestyle/magesuite-maintenance-page": "^1.0.0",
     "creativestyle/magesuite-nfz": "^1.0.0",
     "creativestyle/magesuite-opengraph": "^1.0.0",
@@ -57,6 +57,7 @@
     "creativestyle/magesuite-url-rewrite": "^1.0.0",
     "creativestyle/magesuite-url-rewrite-mass-actions": "^1.0.0",
     "creativestyle/magesuite-wishlist": "^1.0.0",
-    "creativestyle/magesuite-wishlist-grouped-products": "^1.0.0"
+    "creativestyle/magesuite-wishlist-grouped-products": "^1.0.0",
+    "creativestyle/magesuite-reindex-and-cache-clear-notification": "^1.0.0"
   }
 }
