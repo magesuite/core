@@ -57,7 +57,6 @@
     "creativestyle/magesuite-url-rewrite": "^1.0.0",
     "creativestyle/magesuite-url-rewrite-mass-actions": "^1.0.0",
     "creativestyle/magesuite-wishlist": "^1.0.0",
-    "creativestyle/magesuite-wishlist-grouped-products": "^1.0.0",
-    "creativestyle/magesuite-reindex-and-cache-clear-notification": "^1.0.0"
+    "creativestyle/magesuite-wishlist-grouped-products": "^1.0.0"
   }
 }
