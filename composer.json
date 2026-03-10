@@ -5,7 +5,7 @@
   "require": {
     "creativestyle/magento-patches": "dev-master@dev",
     "creativestyle/mageops-node-warmer": "^1.0.0",
-    "creativestyle/magesuite-brand-management": "^1.0.0",
+    "creativestyle/magesuite-brand-management": "^1.0.0 || ^2.0.0",
     "creativestyle/magesuite-cache": "^1.0.0",
     "creativestyle/magesuite-catalog-product-listing-compatibility": "^1.0.0",
     "creativestyle/magesuite-category-hero": "^1.0.0",
