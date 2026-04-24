@@ -53,6 +53,7 @@
     "creativestyle/magesuite-sentry-io": "^2.0.0",
     "creativestyle/magesuite-seo-canonical": "^1.0.0",
     "creativestyle/magesuite-seo-hreflang": "^1.0.0",
+    "creativestyle/magesuite-seo-link-masking": "^1.0.0",
     "creativestyle/magesuite-soft-db-status-validation": "^2.0.0",
     "creativestyle/magesuite-sort-admin-tabs": "^1.0.0",
     "creativestyle/magesuite-sorting": "^1.0.0",
